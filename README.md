@@ -1,4 +1,10 @@
 # Dessert-Database IN PROGRESS!
 a database for a dessert company. #SQL #Oracle 
 
-coming soon, with an expected completion date: Dec 2024
+What is done so far:
+-Queries 
+-Advanced querry tables
+View tables
+
+Estimated project completion date: Dec 2024
+
