@@ -1,5 +1,5 @@
 # Dessert-Database 
-a collaborative assignment completed with partners: 
+This is a collaborative assignment completed with partners: 
 Maryam Ramzaan- Computer Engineering
 Azaan Cheema- Computer Engineering
 Daniyal Nadim- Computer Science
