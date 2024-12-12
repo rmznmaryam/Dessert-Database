@@ -14,6 +14,8 @@ The final SQL file that we created for this project is titled flavour.sql, befor
 
 Laslty, we made this a terminal based program is connected to Oracle Database, using the python files posted.
 
+A detailed overview of the entire project, as well as how we applied what was learned in class is all shown in the Ice Cream Database Final Report.pdf  file
+
 Completion Date: December, 2nd, 2024
 
 #SQL #Oracle 
