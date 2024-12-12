@@ -1,10 +1,7 @@
-# Dessert-Database IN PROGRESS!
-a database for a dessert company. #SQL #Oracle 
+# Dessert-Database 
+a collaborative assignment completed with partners: 
+Azaan Cheema- Computer Engineering and Daniyal Nadim- Computer Science
 
-What is done so far:
--Queries 
--Advanced querry tables
-View tables
+Database for a dessert company. 
 
-Estimated project completion date: Dec 2024
-
+#SQL #Oracle 
